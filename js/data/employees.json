@@ -1,1 +1,37 @@
-test
+{"employees":[
+    {
+    "empID": 34123413, 
+    "empName": "Zak Ruvalcaba", 
+    "empExt": 3424, 
+    "empEmail": "zak@vectacorp.com", 
+    "empRole": "Executive"
+    },
+    {
+    "empID": 23424665, 
+    "empName": "Sally Smith", 
+    "empExt": 2344, 
+    "empEmail": "sally@vectacorp.com", 
+    "empRole": "Administrative"
+    },   
+    {
+    "empID": 12341244, 
+    "empName": "Mark Martin", 
+    "empExt": 5352,
+    "empEmail": "mark@vectacorp.com",
+    "empRole": "Sales"
+    }, 
+    {
+    "empID": 14545423,
+    "empName": "Robin Banks", 
+    "empExt": 7867, 
+    "empEmail": "robin@vectacorp.com",
+    "empRole": "Marketing"
+    }, 
+    {
+    "empID": 13413453, 
+    "empName": "Sue Wedge", 
+    "empExt": 1235, 
+    "empEmail": "sue@vectacorp.com", 
+    "empRole": "QA"
+    }
+]}
